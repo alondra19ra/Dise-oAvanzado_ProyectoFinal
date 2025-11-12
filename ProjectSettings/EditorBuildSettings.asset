@@ -201,13 +201,13 @@ EditorBuildSettings:
     path: Assets/MiJuegoCorgi/Niveles/RetroAdventure3.unity
     guid: 46fcc2c18a399f747b0673aacb693b94
   - enabled: 1
-    path: Assets/MiJuegoCorgi/Niveles/RetroAdventure4.unity
+    path: Assets/MiJuegoCorgi/Niveles/NivelTutorial.unity
     guid: a263b887440dd564983da172c7fe783d
   - enabled: 1
     path: Assets/CorgiEngine/Demos/RetroAdventure/RetroAdventure5.unity
     guid: 702b1d26cdfc0ae4e9b4fd1d881b1e8f
   - enabled: 1
-    path: Assets/MiJuegoCorgi/Niveles/RetroAdventureLevelSelection.unity
+    path: Assets/MiJuegoCorgi/Niveles/selectorNiveles.unity
     guid: a70302a2680553d40a0f9d57ee57ca5b
   - enabled: 1
     path: Assets/CorgiEngine/Demos/RetroAdventure/RetroAdventureCharacterSelection.unity
